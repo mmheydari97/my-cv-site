@@ -1,2 +1,13 @@
 node_modules
 
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.gz
+*.toc
+*.vrb
+
+
